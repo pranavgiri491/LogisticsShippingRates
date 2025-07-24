@@ -12,3 +12,21 @@ Code Review:
 All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
+
+# Logistics Shipping Rates
+
+This project calculates shipping rates based on weight, distance, and shipping type.
+
+## How to Use
+
+Clone the repo: https://github.com/pranavgiri491/LogisticsShippingRates.git
+Run the script:
+bash simple-interest.sh
+
+shell
+Copy
+Edit
+
+## License
+
+Apache License 2.0
